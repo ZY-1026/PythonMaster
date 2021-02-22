@@ -1,5 +1,5 @@
 def main():
-    def n31(a):# a = initial number
+    def n31(a):     # a = initial number
         c = 0
         l = [a]
         while a != 1:
